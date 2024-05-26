@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=philipo30.philipo30" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&&color=70A5FD&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+👋;+I'm+Philip!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&&color=70A5FD&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hi+There!+👋;+I'm+Philip!;" />
     <p align center>
       <a href="https://discord.com/users/884457992026722315">
           <img alt="Discord" title="Discord" height="48" width="48" src="https://cdn.simpleicons.org/discord">
