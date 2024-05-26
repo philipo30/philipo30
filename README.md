@@ -2,15 +2,11 @@
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Philip!;" />
+      <a href="https://discord.com/users/884457992026722315">
+          <img alt="Discord" title="Discord" height="48" width="48" src="https://cdn.simpleicons.org/discord">
+      </a>
 </h1>
 
-<p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Socials;" />
-</p>
-<p align="center">
-  <a href="https://discord.com/users/884457992026722315">
-    <img alt="Discord" title="Discord" height="48" width="48" src="https://cdn.simpleicons.org/discord"></a>
-</p>
 <br/>
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
