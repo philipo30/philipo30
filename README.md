@@ -11,6 +11,6 @@
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,figma,git,pycharm,sublime,windows" />
+    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,figma,git,pycharm,sublime,windows,discord,bots" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,mysql" /><br>
 </div>
