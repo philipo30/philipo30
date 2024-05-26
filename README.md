@@ -2,9 +2,11 @@
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Philip!;" />
+    <p align center>
       <a href="https://discord.com/users/884457992026722315">
           <img alt="Discord" title="Discord" height="48" width="48" src="https://cdn.simpleicons.org/discord">
       </a>
+    </p>
 </h1>
 
 <br/>
