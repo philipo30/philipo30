@@ -14,3 +14,11 @@
     <img src="https://skillicons.dev/icons?i=html,css,vscode,github,figma,git,pycharm,sublime,windows,discord,bots" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,mysql" /><br>
 </div>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/philipo30/philipo30/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
