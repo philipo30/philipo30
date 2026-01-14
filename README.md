@@ -1,5 +1,5 @@
-- I am currently learning Rust
-- I know Javascript, Python and Dart
+- I know Typescript, Python and Dart
+- Using nextjs, bun, react
 
 <div align=center>
     <img src="https://github-readme-streak-stats-beta-olive.vercel.app?user=philipo30&theme=tokyonight&card_width=396&card_height=195" alt="GitHub Streak" />
